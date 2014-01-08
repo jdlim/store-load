@@ -5,7 +5,7 @@
 #   gem 'sqlite3'
 development:
   adapter: mysql
-  database: opencart
+  database: testing
   username: ocadmin
   password: opencart
   host: 127.0.0.1

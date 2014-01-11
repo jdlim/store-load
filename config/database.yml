@@ -7,7 +7,7 @@ development:
   adapter: mysql
   database: testing
   username: ocadmin
-  password: opencart
+  password: test
   host: 127.0.0.1
   port: 3306
 
